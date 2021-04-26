@@ -1,0 +1,19 @@
+{
+  "name": "jsregex",
+  "version": "1.0.0",
+  "description": "Aprendizado sobre RegEx, hoje com JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandmontalvan/jsregex.git"
+  },
+  "author": "Roland Montalvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolandmontalvan/jsregex/issues"
+  },
+  "homepage": "https://github.com/rolandmontalvan/jsregex#readme"
+}
